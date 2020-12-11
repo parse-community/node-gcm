@@ -1,6 +1,9 @@
 # node-gcm
 
 [![npm version](https://badge.fury.io/js/%40parse%2Fnode-gcm.svg)](https://badge.fury.io/js/%40parse%2Fnode-gcm)
+<a href="https://github.com/parse-community/node-gcm/actions?query=workflow%3Aci+branch%3Amaster">
+	<img alt="Build status" src="https://github.com/parse-community/node-gcm/workflows/ci/badge.svg?branch=master">
+</a>
 
 The goal of this project is providing the best and most easily used interface for Firebase Cloud Messaging. (The name `gcm` comes from the older name for the service, Google Cloud Messaging.)
 
